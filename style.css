@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(79, 243, 249);
+}
+.header_div{
+    background-color: white;
+    color: darkblue;
+}
+.header_div p{
+    color: purple;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+
+}
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+
+}
+.copy_right_footer{
+    position:fixed;
+    color: gray;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+}
